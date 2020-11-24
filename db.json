@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Axios React",
+      "author": "Adrian Twarog"
+    },
+    {
+      "id": 2,
+      "title": "Axios React Native",
+      "author": "Adrian Twarog"
+    },
+    {
+      "id": 3,
+      "title": "Axios JavaScriptA",
+      "author": "Adrian Twarog"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
